@@ -1,5 +1,15 @@
 Date:	 10/12/2017
 
+##Version: 1.2
+
+Added:
+	- N/A
+	
+Modified:
+	- core/MY_Controller.php
+        - views/homepage.php
+        - controllers/Welcome.php
+
 ##Version: 1.1
 
 Added:
