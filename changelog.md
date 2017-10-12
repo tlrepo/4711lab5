@@ -1,5 +1,17 @@
 Date:	 10/12/2017
 
+##Version: 1.3
+
+Added:
+	- views/by_category.php
+	- views/by_priority.php
+	- views/template_secondary.php
+	- controllers/Views.php
+	- 
+	
+Modified:
+	- N/A
+
 ##Version: 1.2
 
 Added:
