@@ -24,6 +24,7 @@
             </div>
             <div id="content">
                 <h1>{pagetitle}</h1>
+                <h3>Tasks by Category</h3>
                 <div class="row">
                     <div class="col-lg-6 col-md-12">
                         {leftside}
