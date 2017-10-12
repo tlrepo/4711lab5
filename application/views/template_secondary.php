@@ -1,10 +1,3 @@
-/**
- * Created by PhpStorm.
- * User: daniel
- * Date: 2017-10-12
- * Time: 3:57 PM
- */
-
 <!DOCTYPE html>
 <html lang="en">
 	<head>
