@@ -1,5 +1,15 @@
 Date:	 10/12/2017
 
+##Version: 1.5
+
+Added:
+	- controllers/Mtce.php
+	- views/itemlist.php
+	- views/oneitem.php
+	
+Modified:
+	- config/config.php
+
 ##Version: 1.4
 
 Added:
