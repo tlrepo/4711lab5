@@ -24,12 +24,11 @@
                     <div class="span6">
                         {rightside}
                     </div>
-                    </div>
                 </div>
             </div>
-            <div id="footer" class="span12">
-                Copyright &copy; 2017,  <a href="mailto:someone@somewhere.com">Me</a>.
-            </div>
+        </div>
+        <div id="footer" class="span12">
+            Copyright &copy; 2017,  <a href="mailto:someone@somewhere.com">Me</a>.
         </div>
         <script src="/assets/js/jquery-1.11.1.min.js"></script>
         <script src="/assets/js/bootstrap.min.js"></script>
