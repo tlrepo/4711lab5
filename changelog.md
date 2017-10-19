@@ -1,5 +1,14 @@
 Date:	 10/12/2017
 
+##Version: 1.5
+
+Added:
+	- N/A
+	
+Modified:
+	- views
+	    - template_secondary.php
+
 ##Version: 1.4
 
 Added:
