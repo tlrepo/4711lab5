@@ -20,8 +20,7 @@ class Views extends Application {
 
     function makePrioritizedPanel($tasks) {
         // extract the undone tasks
-        foreach ($tasks as $task)
-        {
+        foreach ($tasks as $task)  {
             if ($task->status != 2)
                 $undone[] = $task;
         }
