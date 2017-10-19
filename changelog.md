@@ -1,5 +1,14 @@
 Date:	 10/19/2017
 
+##Version: 1.7
+
+Added:
+	- views/itemnav.php
+	
+Modified:
+	- config/Mtce.php
+        - views/itemlist.php
+
 ##Version: 1.6
 
 Added:
