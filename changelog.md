@@ -1,6 +1,6 @@
-Date:	 10/12/2017
+Date:	 10/19/2017
 
-##Version: 1.5
+##Version: 1.6
 
 Added:
 	- controllers/Mtce.php
@@ -9,6 +9,15 @@ Added:
 	
 Modified:
 	- config/config.php
+
+##Version: 1.5
+
+Added:
+	- N/A
+	
+Modified:
+	- views
+	    - template_secondary.php
 
 ##Version: 1.4
 
