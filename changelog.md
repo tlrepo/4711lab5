@@ -10,6 +10,16 @@ Modified:
 	- views/_menubar.php
 	- gitignore
 	- config/autoload.php
+	- controllers/Mtce.php
+
+##Version: 1.7
+
+Added:
+	- views/itemnav.php
+	
+Modified:
+	- config/Mtce.php
+        - views/itemlist.php
 
 ##Version: 1.6
 
