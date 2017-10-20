@@ -1,5 +1,17 @@
 Date:	 10/19/2017
 
+##Version: 1.8
+
+Added:
+	- controllers/Roles.php
+	
+Modified:
+	- config/constants.php
+	- views/_menubar.php
+	- gitignore
+	- config/autoload.php
+	- controllers/Mtce.php
+
 ##Version: 1.7
 
 Added:
