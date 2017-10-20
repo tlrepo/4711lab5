@@ -1,5 +1,14 @@
 Date:	 10/19/2017
 
+##Version: 1.9
+
+Added:
+	- views/itemadd.php
+	- views/oneitemx.php
+	
+Modified:
+	- controllers/Mtce.php
+
 ##Version: 1.8
 
 Added:
