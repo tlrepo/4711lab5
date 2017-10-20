@@ -1,6 +1,19 @@
 Date:	 10/19/2017
 
-##Version: 1.9
+##Version: 1.11
+
+Added:
+	- views/itemadd.php
+	- views/itemedit.php
+	
+Modified:
+	- models/App.php
+	- models/Tasks.php
+	- controllers/Mtce.php
+	- core/Memory_Model.php
+	-system/helpers/form_helper.php
+
+##Version: 1.10
 
 Added:
 	- views/itemadd.php

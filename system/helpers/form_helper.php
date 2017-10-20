@@ -524,6 +524,7 @@ if ( ! function_exists('form_submit'))
 	function form_submit($data = '', $value = '', $extra = '')
 	{
 		$defaults = array(
+		    'class' => 'btn btn-default',
 			'type' => 'submit',
 			'name' => is_array($data) ? '' : $data,
 			'value' => $value
