@@ -1,12 +1,21 @@
 Date:	 10/19/2017
 
+##Version: 1.10
+
+Added:
+	- views/itemadd.php
+	- views/oneitemx.php
+	
+Modified:
+	- controllers/Mtce.php
+  
 ##Version: 1.9
 
 Modified:
 	- views/by_priority.php
 	- controllers/View.php
 	- core/Memory_Model.php
-
+  
 ##Version: 1.8
 
 Added:
