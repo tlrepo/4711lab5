@@ -1,4 +1,79 @@
-Date:	 10/12/2017
+Date:	 10/19/2017
+
+##Version: 1.12
+	
+Modified:
+	- views/itemedit.php
+	- controllers/Mtce.php
+
+##Version: 1.11
+
+Added:
+	- views/itemadd.php
+	- views/itemedit.php
+	
+Modified:
+	- models/App.php
+	- models/Tasks.php
+	- controllers/Mtce.php
+	- core/Memory_Model.php
+	-system/helpers/form_helper.php
+
+##Version: 1.10
+
+Added:
+	- views/itemadd.php
+	- views/oneitemx.php
+	
+Modified:
+	- controllers/Mtce.php
+  
+##Version: 1.9
+
+Modified:
+	- views/by_priority.php
+	- controllers/View.php
+	- core/Memory_Model.php
+  
+##Version: 1.8
+
+Added:
+	- controllers/Roles.php
+	
+Modified:
+	- config/constants.php
+	- views/_menubar.php
+	- gitignore
+	- config/autoload.php
+	- controllers/Mtce.php
+
+##Version: 1.7
+
+Added:
+	- views/itemnav.php
+	
+Modified:
+	- config/Mtce.php
+        - views/itemlist.php
+
+##Version: 1.6
+
+Added:
+	- controllers/Mtce.php
+	- views/itemlist.php
+	- views/oneitem.php
+	
+Modified:
+	- config/config.php
+
+##Version: 1.5
+
+Added:
+	- N/A
+	
+Modified:
+	- views
+	    - template_secondary.php
 
 ##Version: 1.4
 
