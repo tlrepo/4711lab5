@@ -1,5 +1,11 @@
 Date:	 10/19/2017
 
+##Version: 1.12
+	
+Modified:
+	- views/itemedit.php
+	- controllers/Mtce.php
+
 ##Version: 1.11
 
 Added:
