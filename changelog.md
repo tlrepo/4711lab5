@@ -5,9 +5,9 @@ Date:	 11/3/2017
 Added:
 	- tests/Bootstrap.php
 	- phpunit.xml.dist
-        - core/Entity.php
-        - core/TaskTest.php
-        - core/TaskListTest.php
+        - controller/Entity.php
+        - controller/TaskTest.php
+        - controller/TaskListTest.php
         - config/travis-ci.php
         
 Modified:
