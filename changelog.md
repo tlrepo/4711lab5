@@ -1,5 +1,14 @@
 Date:	 11/3/2017
 
+##Version: 1.14
+
+Added:
+	- 
+        
+Modified:
+	- .gitignore
+	- models/Entity.php
+
 ##Version: 1.13
 
 Added:

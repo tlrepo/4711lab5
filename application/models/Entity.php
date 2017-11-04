@@ -9,8 +9,7 @@ class Entity extends CI_Model {
         // For instance, setName(...) will be invoked by $object->name = ...
         // and setLastName(...) for $object->last_name = 
         $method = 'set' . str_replace(' ', '', ucwords(str_replace(['-', '_'], ' ', $key)));
-        if (method_exists($this, $method))
-        {
+        if (method_exists($this, $method)) {
                 $this->$method($value);
                 return $this;
         }
