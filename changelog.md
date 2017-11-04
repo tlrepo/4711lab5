@@ -1,4 +1,17 @@
-Date:	 10/19/2017
+Date:	 11/3/2017
+
+##Version: 1.13
+
+Added:
+	- tests/Bootstrap.php
+	- phpunit.xml.dist
+        - controller/Entity.php
+        - controller/TaskTest.php
+        - controller/TaskListTest.php
+        - config/travis-ci.php
+        
+Modified:
+	- .gitignore
 
 ##Version: 1.12
 	
