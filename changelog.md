@@ -1,9 +1,14 @@
 Date:	 11/3/2017
 
-##Version: 1.14
-
+##Version: 1.15
+        
 Added:
+	- models/Task.php
+        
+Modified:
 	- 
+
+##Version: 1.14
         
 Modified:
 	- .gitignore
