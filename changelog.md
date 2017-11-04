@@ -6,9 +6,12 @@ Added:
 	- models/Task.php
 	- tests/taskTest.php
 	- tests/TaskListTest.php
+	- tests/report
         
 Modified:
 	- models/Task.php
+	- .gitignore
+	- phpunit.xml.dist
 
 ##Version: 1.14
         
