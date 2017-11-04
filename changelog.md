@@ -7,6 +7,7 @@ Added:
 	- tests/taskTest.php
 	- tests/TaskListTest.php
 	- tests/report
+	- .travis.yml
         
 Modified:
 	- models/Task.php
