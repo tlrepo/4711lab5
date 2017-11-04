@@ -4,9 +4,11 @@ Date:	 11/3/2017
         
 Added:
 	- models/Task.php
+	- tests/taskTest.php
+	- tests/TaskListTest.php
         
 Modified:
-	- 
+	- models/Task.php
 
 ##Version: 1.14
         

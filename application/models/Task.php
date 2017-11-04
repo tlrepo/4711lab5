@@ -1,8 +1,8 @@
 <?php
-include('Entity.php');
+include('../application/core/Entity.php');
 /**
  * Created by PhpStorm.
- * User: danie
+ * User: daniel
  * Date: 2017-11-04
  * Time: 1:23 PM
  */
