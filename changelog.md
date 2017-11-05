@@ -1,4 +1,37 @@
-Date:	 10/19/2017
+Date:	 11/3/2017
+
+##Version: 1.15
+        
+Added:
+	- models/Task.php
+	- tests/taskTest.php
+	- tests/TaskListTest.php
+	- tests/report
+	- .travis.yml
+        
+Modified:
+	- models/Task.php
+	- .gitignore
+	- phpunit.xml.dist
+
+##Version: 1.14
+        
+Modified:
+	- .gitignore
+	- models/Entity.php
+
+##Version: 1.13
+
+Added:
+	- tests/Bootstrap.php
+	- phpunit.xml.dist
+        - controller/Entity.php
+        - controller/TaskTest.php
+        - controller/TaskListTest.php
+        - config/travis-ci.php
+        
+Modified:
+	- .gitignore
 
 ##Version: 1.12
 	
