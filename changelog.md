@@ -1,5 +1,25 @@
 Date:	 11/3/2017
 
+##Version: 1.15
+        
+Added:
+	- models/Task.php
+	- tests/taskTest.php
+	- tests/TaskListTest.php
+	- tests/report
+	- .travis.yml
+        
+Modified:
+	- models/Task.php
+	- .gitignore
+	- phpunit.xml.dist
+
+##Version: 1.14
+        
+Modified:
+	- .gitignore
+	- models/Entity.php
+
 ##Version: 1.13
 
 Added:
