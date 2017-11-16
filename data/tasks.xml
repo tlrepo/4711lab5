@@ -1,0 +1,62 @@
+<tasks>
+    <item1>
+        <id>1</id>
+        <task_name>COMP1234 assignment</task_name>
+        <priority>3</priority>
+        <size>2</size>
+        <group>2</group>
+        <deadline>20170219</deadline>
+        <status>1</status>
+        <flag> </flag>
+    </item1>
+    <item2>
+        <id>2</id>
+        <task_name>Mow the lawn</task_name>
+        <priority>1</priority>
+        <size>2</size>
+        <group>1</group>
+        <deadline> </deadline>
+        <status>2</status>
+        <flag> </flag>
+    </item2>
+    <item3>
+        <id>3</id>
+        <task_name>Wash the car</task_name>
+        <priority>2</priority>
+        <size>2</size>
+        <group>1</group>
+        <deadline> </deadline>
+        <status> </status>
+        <flag> </flag>
+    </item3>
+    <item4>
+        <id>4</id>
+        <task_name>Paint the fence</task_name>
+        <priority>1</priority>
+        <size>2</size>
+        <group>1</group>
+        <deadline> </deadline>
+        <status> </status>
+        <flag> </flag>
+    </item4>
+    <item5>
+        <id>6</id>
+        <task_name>Intramural hockey game</task_name>
+        <priority>1</priority>
+        <size>2</size>
+        <group>4</group>
+        <deadline> </deadline>
+        <status> </status>
+        <flag> </flag>
+    </item5>
+    <item6>
+        <id>7</id>
+        <task_name>Canucks hockey game</task_name>
+        <priority>3</priority>
+        <size>3</size>
+        <group>4</group>
+        <deadline>20170305</deadline>
+        <status> </status>
+        <flag> </flag>
+    </item6>
+</tasks>
