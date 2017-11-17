@@ -11,6 +11,14 @@ Modified:
         - core/MY_Model.php
 
 
+##Version: 1.16
+        
+Added:
+	- data/tasks.xml
+        
+Modified:
+	- data/tasks.csv
+
 ##Version: 1.15
         
 Added:
