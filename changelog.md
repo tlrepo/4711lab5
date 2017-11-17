@@ -1,5 +1,13 @@
 Date:	 11/3/2017
 
+##Version: 1.16
+        
+Added:
+	- data/tasks.xml
+        
+Modified:
+	- data/tasks.csv
+
 ##Version: 1.15
         
 Added:
