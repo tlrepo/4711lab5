@@ -1,63 +1,84 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<tasks>
-    <item1>
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+    <item>
         <id>1</id>
-        <task_name>COMP1234 assignment</task_name>
+        <task>COMP1234 assignment</task>
         <priority>3</priority>
         <size>2</size>
         <group>2</group>
         <deadline>20170219</deadline>
         <status>1</status>
         <flag>Update the TODO task</flag>
-    </item1>
-    <item2>
+    </item>
+    <item>
         <id>2</id>
-        <task_name>Mow the lawn</task_name>
+        <task>Mow the lawn</task>
         <priority>1</priority>
         <size>2</size>
         <group>1</group>
-        <deadline> </deadline>
+        <deadline>0</deadline>
         <status>2</status>
-        <flag> </flag>
-    </item2>
-    <item3>
+        <flag/>
+    </item>
+    <item>
         <id>3</id>
-        <task_name>Wash the car</task_name>
+        <task>Wash the car</task>
         <priority>2</priority>
         <size>2</size>
         <group>1</group>
-        <deadline> </deadline>
-        <status> </status>
-        <flag> </flag>
-    </item3>
-    <item4>
+        <deadline>0</deadline>
+        <status>0</status>
+        <flag/>
+    </item>
+    <item>
         <id>4</id>
-        <task_name>Paint the fence</task_name>
+        <task>Paint the fence</task>
         <priority>1</priority>
         <size>2</size>
         <group>1</group>
-        <deadline> </deadline>
-        <status> </status>
-        <flag> </flag>
-    </item4>
-    <item5>
+        <deadline>0</deadline>
+        <status>0</status>
+        <flag/>
+    </item>
+    <item>
         <id>6</id>
-        <task_name>Intramural hockey game</task_name>
+        <task>Intramural hockey game</task>
         <priority>1</priority>
         <size>2</size>
         <group>4</group>
-        <deadline> </deadline>
-        <status> </status>
-        <flag> </flag>
-    </item5>
-    <item6>
+        <deadline>0</deadline>
+        <status>0</status>
+        <flag/>
+    </item>
+    <item>
         <id>7</id>
-        <task_name>Canucks hockey game</task_name>
+        <task>Canucks hockey game</task>
         <priority>3</priority>
         <size>3</size>
         <group>4</group>
         <deadline>20170305</deadline>
-        <status> </status>
-        <flag> </flag>
-    </item6>
-</tasks>
+        <status>0</status>
+        <flag/>
+    </item>
+    <item>
+        <id>8</id>
+        <task>go to class</task>
+        <priority>1</priority>
+        <size>1</size>
+        <group>1</group>
+        <deadline>0</deadline>
+        <status>1</status>
+        <flag/>
+    </item>
+    <item>
+        <id>9</id>
+        <task>go home</task>
+        <priority>1</priority>
+        <size>1</size>
+        <group>1</group>
+        <deadline/>
+        <status>1</status>
+        <flag/>
+        <submit>Update the TODO task</submit>
+    </item>
+</item>
