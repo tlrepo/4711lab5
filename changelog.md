@@ -1,4 +1,29 @@
-Date:	 11/3/2017
+Date:	 11/16/2017
+
+
+##Version: 1.18
+        
+Modified:
+	- data/tasks.xml
+    - core/XML_Model.php
+        
+##Version: 1.17
+        
+Added:
+	- core/XML_Model.php
+        
+Modified:
+	- data/tasks.xml
+        - core/MY_Model.php
+
+
+##Version: 1.16
+        
+Added:
+	- data/tasks.xml
+        
+Modified:
+	- data/tasks.csv
 
 ##Version: 1.15
         
